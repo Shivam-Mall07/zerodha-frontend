@@ -42,8 +42,8 @@ function Team() {
             </p>
             <p>
              Connect on 
-             <a href="" style={{color:"blue"}}> LinkedIn </a>
-             <a href="" style={{color:"blue"}}>/ GitHub</a>
+             <a href="" style={{color:"rgb(0, 128, 255)"}}> LinkedIn </a>
+             <a href="" style={{color:"rgb(0, 128, 255)"}}>/ GitHub</a>
             </p>
           
         </div>

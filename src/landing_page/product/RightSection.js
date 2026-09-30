@@ -8,7 +8,7 @@ function RightSection({productName, productDescription, learnMore, imageURL}) {
           <h1 className="">{productName}</h1>
           <p>{productDescription}</p>
           <div>
-            <a href={learnMore} style={{color: "blue" }}>
+            <a href={learnMore} style={{color: "rgb(0, 128, 255)" }}>
               Learn More{" "}
               <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>

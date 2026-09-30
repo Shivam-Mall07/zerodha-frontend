@@ -19,8 +19,8 @@ function LeftSection({
                 <h1>{productName}</h1>
                 <p>{productDescription}</p>
                 <div>
-                <a href={tryDemo} style={{color:"blue"}}>Try Demo <i class="fa fa-long-arrow-right" aria-hidden="true"  ></i></a>
-                <a href={learnMore} style={{marginLeft:"50px", color:"blue"}}>Learn More <i class="fa fa-long-arrow-right" aria-hidden="true"  ></i></a>
+                <a href={tryDemo} style={{color:"rgb(0, 128, 255)"}}>Try Demo <i class="fa fa-long-arrow-right" aria-hidden="true"  ></i></a>
+                <a href={learnMore} style={{marginLeft:"50px", color:"rgb(0, 128, 255)"}}>Learn More <i class="fa fa-long-arrow-right" aria-hidden="true"  ></i></a>
                 </div>
                 <div className='mt-3'>
 
