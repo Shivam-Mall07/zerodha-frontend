@@ -5,8 +5,8 @@ import CreateTicke from './CreateTicket';
 function SupportPage() {
     return ( 
         <>
-        <CreateTicke />
         <Hero />
+        <CreateTicke />
         </>
      );
 }
